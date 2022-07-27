@@ -3,7 +3,7 @@ This is not a proper CV with all information required for job application, but r
 <p> </p> 
 
 # Personal information
-![Photo](.\images\my_photo.jpg)
+![Photo](photo.jpg)
 - Name: Boris Li
 - Age: 42
 - Current country of residency: Russia
